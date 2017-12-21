@@ -6,15 +6,16 @@ Specifications for the Dat protocol in Web browsers.
 
 ## Motivation
 
-There are now multiple browsers with plans to implement the Dat protocol.
+There are now multiple browsers with plans to implement the Dat protocol:
 
  - [Beaker Browser](https://beakerbrowser.com)
  - [Brave Browser](https://brave.com)
 
-This repository will document the core behaviors for the Web platform.
-It will also link to any working modules or implementations.
+Therefore, this repository will:
 
-This repository will also act as the location to discuss the specs and propose changes.
+ - Document the core behaviors of Dat to be implemented by Web browsers.
+ - Link to working modules and implementations.
+ - Act as the location to discuss the specs and propose changes.
 
 Since we are not yet on any standards tracks (ie WHATWG or W3C) this repo will use an informal specification.
 
