@@ -2,7 +2,7 @@
 
 Specifications for the Dat protocol in Web browsers.
 
-**Status: Just getting started!** The specs in this repo are still in progress, and only reflect the Beaker Browser's behaviors.
+**Status: Just getting started!** The specs in this repo are still in progress.
 
 ## Motivation
 
