@@ -1,3 +1,7 @@
+# This repo is now closed
+
+We have decided to merge into the [RFCs](https://github.com/datprotocol/rfcs) process.
+
 # Dat protocol Web specs
 
 Specifications for the Dat protocol in Web browsers.
