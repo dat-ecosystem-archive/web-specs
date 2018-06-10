@@ -1,6 +1,6 @@
 # This repo is now closed
 
-We have decided to merge into the [RFCs](https://github.com/datprotocol/rfcs) process.
+We have decided to merge into the Dat Enhancement Proposal ([DEP](https://github.com/datprotocol/DEPs)) process.
 
 # Dat protocol Web specs
 
