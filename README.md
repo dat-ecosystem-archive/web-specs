@@ -1,6 +1,6 @@
-# This repo is now closed
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](https://github.com/dat-ecosystem-archive/DEPs) See [DEP](https://github.com/dat-ecosystem-archive/DEPs) for similar functionality. 
 
-We have decided to merge into the Dat Enhancement Proposal ([DEP](https://github.com/datprotocol/DEPs)) process.
+More info on active projects and modules at [dat-ecosystem.org](https://dat-ecosystem.org/) <img src="https://i.imgur.com/qZWlO1y.jpg" width="30" height="30" /> 
 
 # Dat protocol Web specs
 
